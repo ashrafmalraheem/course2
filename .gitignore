@@ -1,1 +1,7 @@
-'*.hex'
+*.out
+*.map
+*.obj
+*.d
+*.xml
+Debug/
+.launches/
