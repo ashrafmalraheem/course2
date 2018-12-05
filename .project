@@ -24,4 +24,16 @@
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>memory.c</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/ti/ccsv8/ccs_base/arm/src/memory.c</locationURI>
+		</link>
+		<link>
+			<name>stats.c</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/ti/ccsv8/ccs_base/arm/src/stats.c</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>

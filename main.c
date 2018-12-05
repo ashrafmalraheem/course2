@@ -18,6 +18,7 @@
 #define DELAY2        (20000)
 #define MAX_SIZE      (25)
 
+
 /* Function Declaration */
 void blink_forever();
 /**
