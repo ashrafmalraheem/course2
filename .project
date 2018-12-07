@@ -26,14 +26,14 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>memory.c</name>
+			<name>memory.obj</name>
 			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/ti/ccsv8/ccs_base/arm/src/memory.c</locationURI>
+			<locationURI>PARENT-4-PROJECT_LOC/ti/ccsv8/ccs_base/arm/src/memory.obj</locationURI>
 		</link>
 		<link>
-			<name>stats.c</name>
+			<name>stats.obj</name>
 			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/ti/ccsv8/ccs_base/arm/src/stats.c</locationURI>
+			<locationURI>PARENT-4-PROJECT_LOC/ti/ccsv8/ccs_base/arm/src/stats.obj</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
